@@ -1,0 +1,18 @@
+newmtl lambert10SG
+illum 4
+Kd 0.94 0.94 0.94
+Ka 0.00 0.00 0.00
+Tf 0.17 0.17 0.17
+Ni 1.00
+newmtl lambert11SG
+illum 4
+Kd 0.56 0.02 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert12SG
+illum 4
+Kd 0.08 0.51 0.41
+Ka 0.00 0.00 0.00
+Tf 0.20 0.20 0.20
+Ni 1.00
