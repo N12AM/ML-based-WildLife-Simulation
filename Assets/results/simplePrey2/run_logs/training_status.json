@@ -1,0 +1,47 @@
+{
+    "simplePrey1": {
+        "checkpoints": [
+            {
+                "steps": 20409,
+                "file_path": "results\\simplePrey2\\simplePrey1\\simplePrey1-20409.onnx",
+                "reward": -4.0,
+                "creation_time": 1661369973.5136943,
+                "auxillary_file_paths": [
+                    "results\\simplePrey2\\simplePrey1\\simplePrey1-20409.pt"
+                ]
+            },
+            {
+                "steps": 22461,
+                "file_path": "results\\simplePrey2\\simplePrey1\\simplePrey1-22461.onnx",
+                "reward": null,
+                "creation_time": 1661370019.0625327,
+                "auxillary_file_paths": [
+                    "results\\simplePrey2\\simplePrey1\\simplePrey1-22461.pt"
+                ]
+            },
+            {
+                "steps": 153403,
+                "file_path": "results\\simplePrey2\\simplePrey1\\simplePrey1-153403.onnx",
+                "reward": null,
+                "creation_time": 1661370831.4864402,
+                "auxillary_file_paths": [
+                    "results\\simplePrey2\\simplePrey1\\simplePrey1-153403.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 153403,
+            "file_path": "results\\simplePrey2\\simplePrey1.onnx",
+            "reward": null,
+            "creation_time": 1661370831.4864402,
+            "auxillary_file_paths": [
+                "results\\simplePrey2\\simplePrey1\\simplePrey1-153403.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
